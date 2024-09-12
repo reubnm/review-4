@@ -2,8 +2,10 @@
 
 ## Answer 1:
 <div class="header"; id="firstFlex"></div>
+
 ## Answer 2:
 { font size
+
 ## Answer 3:
 * Objects
 * Arrays
@@ -22,6 +24,7 @@
 
 ## Answer 6:
 D
+
 ## Answer 7:
 * const car {year:"2021"};
 * const car {hasBluetooth:"true"};
